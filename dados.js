@@ -21,7 +21,7 @@ const CENTRAL = {
   disciplina: "Processos de Desenvolvimento de Software",
 
   // Endereço das atividades interativas já publicadas (não precisa mexer).
-  baseAtividades: "https://olisam2303-ux.github.io/apostila-processos-interativa/",
+  baseAtividades: "https://olisam2303-ux.github.io/atividades-interativas-processos/",
   apostila: "https://olisam2303-ux.github.io/apostila-processos-interativa/",
   apostilaDrawio: "https://olisam2303-ux.github.io/apostila-drawio-iniciantes/",
 
@@ -49,19 +49,19 @@ const CENTRAL = {
       prova: "", provaPaulista: "",
       itens: [
         { s: 1, tema: "Requisitos: o ciclo de um requisito", tarefaSP: true,
-          registros: [["Atividades da Semana 1", "semana-01-requisitos.html"]], aula: "" },
+          registros: [["Simulando o ciclo completo", "processos-01.html"]], aula: "" },
         { s: 2, tema: "Técnicas de elicitação de requisitos", tarefaSP: true,
-          registros: [["Atividades da Semana 2", "semana-02-elicitacao.html"]], aula: "" },
+          registros: [["Mini sprint de elicitação", "processos-02.html"]], aula: "" },
         { s: 3, tema: "Manifesto Ágil e seus princípios", tarefaSP: true,
-          registros: [["Atividades da Semana 3", "semana-03-manifesto-agil.html"]], aula: "" },
+          registros: [["Clínica dos princípios", "processos-03.html"]], aula: "" },
         { s: 4, tema: "Introdução aos testes de software", tarefaSP: true,
-          registros: [["Atividades da Semana 4", "semana-04-introducao-testes.html"]], aula: "" },
+          registros: [["Arquiteto de testes do app de mensagens", "processos-04.html"]], aula: "" },
         { s: 5, tema: "Testes funcionais", tarefaSP: true,
-          registros: [["Atividades da Semana 5", "semana-05-testes-funcionais.html"]], aula: "" },
+          registros: [["Testando um app de quiz", "processos-05.html"]], aula: "" },
         { s: 6, tema: "Validação e verificação de requisitos", tarefaSP: true,
-          registros: [["Atividades da Semana 6", "semana-06-validacao-verificacao.html"]], aula: "" },
+          registros: [["Responder um e-mail sobre requisitos", "processos-06.html"]], aula: "" },
         { s: 7, tema: "Gerenciamento de mudanças em requisitos", tarefaSP: true,
-          registros: [["Atividades da Semana 7", "semana-07-gerenciamento-mudancas.html"]], aula: "" }
+          registros: [["Guardiões do livro de receitas da vovó", "processos-07.html"]], aula: "" }
       ]
     },
     {
@@ -69,19 +69,19 @@ const CENTRAL = {
       prova: "", provaPaulista: "",
       itens: [
         { s: 8, tema: "Casos de teste funcional e automação básica", tarefaSP: true,
-          registros: [["Atividades da Semana 8", "semana-08-casos-de-teste.html"]], aula: "" },
+          registros: [["Escrevendo a receita perfeita para encontrar bugs", "processos-08.html"]], aula: "" },
         { s: 9, tema: "Métricas de qualidade e priorização de testes", tarefaSP: true,
-          registros: [["Atividades da Semana 9", "semana-09-metricas-qualidade.html"]], aula: "" },
+          registros: [["Investigação digital: qualidade dos testes como um detetive", "processos-09.html"]], aula: "" },
         { s: 10, tema: "Cultura ágil e mudança de mentalidade", tarefaSP: true,
-          registros: [["Atividades da Semana 10", "semana-10-cultura-agil.html"]], aula: "" },
+          registros: [["O dilema do contrato: traduzindo valores em ações", "processos-10.html"]], aula: "" },
         { s: 11, tema: "Planejamento de release e iterações", tarefaSP: true,
-          registros: [["Atividades da Semana 11", "semana-11-release-iteracoes.html"]], aula: "" },
+          registros: [["Montando um Sprint backlog viável", "processos-11.html"]], aula: "" },
         { s: 12, tema: "Papéis no Scrum: o Product Owner", tarefaSP: true,
-          registros: [["Atividades da Semana 12", "semana-12-papeis-scrum-po.html"]], aula: "" },
+          registros: [["Product Owner: a voz do negócio", "processos-12.html"]], aula: "" },
         { s: 13, tema: "Métricas ágeis: Velocity, Burndown e CFD", tarefaSP: true,
-          registros: [["Atividades da Semana 13", "semana-13-metricas-ageis.html"]], aula: "" },
+          registros: [["Análise de Cumulative Flow Diagrams (CFD)", "processos-13.html"]], aula: "" },
         { s: 14, tema: "Retrospectiva e melhoria contínua", tarefaSP: true,
-          registros: [["Atividades da Semana 14", "semana-14-retrospectiva.html"]], aula: "" }
+          registros: [["Laboratório de retrospectiva e melhoria contínua", "processos-14.html"]], aula: "" }
       ]
     },
     {
@@ -89,17 +89,17 @@ const CENTRAL = {
       prova: "", provaPaulista: "",
       itens: [
         { s: 15, tema: "Modelos de processo: cascata, incremental e evolutivo", tarefaSP: true,
-          registros: [["Atividades da Semana 15", "semana-15-modelos-processo.html"]], aula: "" },
+          registros: [["Atividade 1 — Modelo em cascata na prática", "processos-15a.html"], ["Atividade 2 — Modelos incremental e evolutivo", "processos-15b.html"]], aula: "" },
         { s: 16, tema: "Manifesto Ágil e papéis do Scrum", tarefaSP: true,
-          registros: [["Atividades da Semana 16", "semana-16-manifesto-papeis-scrum.html"]], aula: "" },
+          registros: [["Atividade 1 — Papéis do Scrum: PO, SM e Dev Team", "processos-16a.html"], ["Atividade 2 — Dinâmica “Construindo um produto em papel” (Sprint Zero)", "processos-16b.html"]], aula: "" },
         { s: 17, tema: "Eventos e artefatos do Scrum", tarefaSP: true,
-          registros: [["Atividades da Semana 17", "semana-17-eventos-artefatos-scrum.html"]], aula: "" },
+          registros: [["Atividade 1 — Daily Scrum e gestão de impedimentos", "processos-17a.html"], ["Atividade 2 — Sprint Review e Sprint Retrospective", "processos-17b.html"]], aula: "" },
         { s: 18, tema: "Kanban: fluxo contínuo e limites de WIP", tarefaSP: true,
-          registros: [["Atividades da Semana 18", "semana-18-kanban-wip.html"]], aula: "" },
+          registros: [["O contrato da equipe", "processos-18.html"]], aula: "" },
         { s: 19, tema: "Estimativas ágeis: story points, velocity e release plan", tarefaSP: true,
-          registros: [["Atividades da Semana 19", "semana-19-estimativas-ageis.html"]], aula: "" },
+          registros: [["Estimando o backlog do nosso aplicativo", "processos-19.html"]], aula: "" },
         { s: 20, tema: "Integração Contínua (CI) e Entrega Contínua (CD)", tarefaSP: true,
-          registros: [["Atividades da Semana 20", "semana-20-ci-cd.html"]], aula: "" }
+          registros: [["Lendo um workflow", "processos-20.html"]], aula: "" }
       ]
     },
     {
