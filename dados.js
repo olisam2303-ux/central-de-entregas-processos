@@ -106,8 +106,8 @@ const CENTRAL = {
       n: 4, titulo: "4º bimestre", semanas: "semana 21 em diante",
       prova: "", provaPaulista: "",
       itens: [
-        { s: 21, tema: "Tema a cadastrar pelo professor", tarefaSP: true,
-          registros: [],
+        { s: 21, tema: "Cultura DevOps e feedback contínuo", tarefaSP: true,
+          registros: [["Consultoria DevOps: de CALMS ao diagnóstico DORA", "processos-21.html"]],
           aula: "2026-10-09" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
