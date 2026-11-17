@@ -117,6 +117,9 @@ const CENTRAL = {
           aula: "" },
         { s: 24, tema: "Kubernetes Essentials", tarefaSP: true,
           registros: [["Montando a lógica de uma aplicação no Kubernetes", "processos-24.html"]],
+          aula: "" },
+        { s: 25, tema: "SRE, SLI/SLO e Error Budget", tarefaSP: true,
+          registros: [["Calculando SLI, SLO e error budget", "processos-25.html"]],
           aula: "" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
