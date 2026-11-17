@@ -114,6 +114,9 @@ const CENTRAL = {
           aula: "" },
         { s: 23, tema: "Docker Fundamentals", tarefaSP: true,
           registros: [["Namespaces, cgroups, multi-stage e Compose", "processos-23.html"]],
+          aula: "" },
+        { s: 24, tema: "Kubernetes Essentials", tarefaSP: true,
+          registros: [["Montando a lógica de uma aplicação no Kubernetes", "processos-24.html"]],
           aula: "" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
