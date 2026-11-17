@@ -108,7 +108,10 @@ const CENTRAL = {
       itens: [
         { s: 21, tema: "Cultura DevOps e feedback contínuo", tarefaSP: true,
           registros: [["Consultoria DevOps: de CALMS ao diagnóstico DORA", "processos-21.html"]],
-          aula: "2026-10-09" }
+          aula: "2026-10-09" },
+        { s: 22, tema: "Infraestrutura como Código (IaC) com Terraform", tarefaSP: true,
+          registros: [["Terraform: de um arquivo simples a uma stack completa", "processos-22.html"]],
+          aula: "" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
       ]
