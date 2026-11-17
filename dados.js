@@ -120,6 +120,9 @@ const CENTRAL = {
           aula: "" },
         { s: 25, tema: "SRE, SLI/SLO e Error Budget", tarefaSP: true,
           registros: [["Calculando SLI, SLO e error budget", "processos-25.html"]],
+          aula: "" },
+        { s: 26, tema: "DevSecOps - segurança integrada ao pipeline", tarefaSP: true,
+          registros: [["SAST, scan de imagem, ZAP e Checkov", "processos-26.html"]],
           aula: "" }
         // Para incluir a próxima semana, copie o bloco acima, cole aqui
         // (separado por vírgula) e troque o número, o tema e o arquivo.
